@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "jetbrains": {
+      "command": "node",
+      "args": ["C:/Users/chris/IdeaProjects/test/dist/mcp-server.js"],
+      "env": {
+        "JETBRAINS_MCP_HOST": "127.0.0.1",
+        "JETBRAINS_MCP_PORT": "64342"
+      }
+    }
+  }
+}
